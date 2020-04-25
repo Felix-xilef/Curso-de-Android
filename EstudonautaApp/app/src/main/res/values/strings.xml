@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Estudonauta</string>
+    <string name="strDireitos">Direitos reservados para Estudonauta.com</string>
+    <string name="strEquipe">Equipe</string>
+    <string name="strCursos">Cursos</string>
+    <string name="strMidia">Mídia</string>
+    <string name="strVoltar">Voltar</string>
+    <string name="strEquipeTitulo">Equipe Estudonauta</string>
+    <string name="strEquipeDescricao">
+        \tA ideia do <b>Estudonauta</b> nasceu em 2016 e desde então vários vídeos
+        de teste vêm sido gravados para validar a ideia e modelar o formato. No final de 2017 foi aberto
+        O Alpha Testing para <u>200</u> alunos Fundadores e no final de 2018 foi aberto
+        o <b><i>Beta Testing</i></b> para mais outros.
+
+        \n\n\tA plataforma conta hoje com centenas de aulas, divididas em vários cursos que
+        estão sendo lançados em módulos. A equipe começou com três pessoas e hoje conta com oito
+        profissionais, cada um especializado em uma área específica.
+
+        \n\n\tLogo, quando você recebe um
+        módulo novo e se prepara para assistir todos os vídeos, o trabalho foi feito por toda essa
+        galera, que listaremos a seguir:</string>
+    <string name="strEquipeCaynan">Caynan Scremin (edição de corte)</string>
+    <string name="strEquipeGuanabara">Gustavo Guanabara (professor)</string>
+    <string name="strEquipeItalo">Italo Alves (edição de corte)</string>
+    <string name="strEquipeMichel">Michel Guanabara (finalização)</string>
+    <string name="strEquipePriscila">Priscila Marinho (programação)</string>
+    <string name="strEquipeRamon">Ramon Felinto (design)</string>
+    <string name="strEquipeVera">Vera Machado (tutoria)</string>
+    <string name="strEquipeYgor">Ygor Escure (finalização)</string>
+</resources>
